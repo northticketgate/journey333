@@ -1,0 +1,5 @@
+train_name,train_number,departure,departure_time,destination,destination_time,comment
+スーパーやまびこ,3B,上野,0900,盛岡,1119,仙台1036
+スーパーはつかり,1003M,盛岡,1139,青森,1352,
+ジェットフォイル,3,青森,1420,函館,1600,
+スーパー天北,3D,函館,1625,鬼志別,2322,札幌1915-19旭川2032-34音威子府2159
